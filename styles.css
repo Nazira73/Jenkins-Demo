@@ -1,0 +1,33 @@
+#toppanel{
+    margin-top : 5px;
+    padding : 20px;
+    color : rgb(244, 69, 98) ;
+}
+#midpanel{
+    padding : 20px;
+    color : rgb(244, 69, 98) ;
+}
+
+.img_top-panel{
+    width : 30px;
+    height: 30px;
+    margin-top : 10px;
+    margin-left : 50px;
+}
+.pp{
+    width : 200px;
+    height : 200px;
+    border : 10px dashed whitesmoke
+}
+
+table{
+    border:10px dashed white;
+    margin-top : 40px;
+}
+
+td{
+    border : 2px solid white;
+    padding: 10px;
+    color :rgb(244, 69, 98) ;
+    text-align : left;
+}
